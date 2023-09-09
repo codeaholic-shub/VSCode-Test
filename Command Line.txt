@@ -1,0 +1,5 @@
+Current Directory - cd
+Checking the Directory - dir
+Change Directory - cd Desktop
+Back to Original Directory - cd ..
+Checking all the Documents Directory - cd Documents
